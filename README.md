@@ -12,7 +12,7 @@ library(CropMask)
 
 CropMask::ScriptCropMask(Directory="C:/Users/Fagner/Desktop/Resultados")
 
-Nota: 
+Observation: 
 
 1º file - Raster
 
