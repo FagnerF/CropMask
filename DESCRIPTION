@@ -19,6 +19,8 @@ Imports:
     sp,
     stats,
     utils
-Remotes:  
+Remotes: 
     ipeaGIT/geobr,
     tidyverse/readxl
+URL: https://github.com/FagnerF/CropMask
+BugReports: https://github.com/FagnerF/CropMask/issues
