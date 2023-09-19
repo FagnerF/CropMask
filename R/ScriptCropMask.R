@@ -83,7 +83,7 @@ ScriptCropMask <- function(shapefile, Directory) {
     for (i in 1:length(all_files)) {
       cat("== Working on the data ==", "\n")
       cat("Wait...", "\n")
-      cat(paste0("Crop from", " ", all_files[i],"\n"))
+      cat(paste0("Crop from", " ", name_files[i],"\n"))
 
       MaskCrop <- list()
 
