@@ -16,6 +16,7 @@ Imports:
     raster,
     readxl (>= 1.4.3),
     remotes,
+    rgdal (>= 1.6.7),
     sp,
     stats,
     utils

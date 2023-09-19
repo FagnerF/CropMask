@@ -4,9 +4,11 @@
 \alias{ScriptCropMask}
 \title{This package performs cropping of raster files}
 \usage{
-ScriptCropMask(Directory)
+ScriptCropMask(shapefile, Directory)
 }
 \arguments{
+\item{shapefile}{shapefile local}
+
 \item{Directory}{Location where the files will be saved}
 }
 \description{
